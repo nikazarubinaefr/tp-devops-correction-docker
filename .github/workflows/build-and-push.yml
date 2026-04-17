@@ -31,7 +31,7 @@ jobs:
           context: ./simple-api
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-simple-api:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-simple-api:${{ steps.version.outputs.VERSION }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-simple-api:${{ github.sha }}
           push: true
 
   build-and-push-database:
@@ -57,7 +57,7 @@ jobs:
           context: ./database
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:${{ steps.version.outputs.VERSION }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:${{ github.sha}}
           push: true
 
   build-and-push-httpd:
@@ -83,5 +83,5 @@ jobs:
           context: ./http-server
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-httpd:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-httpd:${{ steps.version.outputs.VERSION }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-httpd:${{ github.sha }}
           push: true
