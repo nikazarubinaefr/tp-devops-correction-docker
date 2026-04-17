@@ -9,20 +9,10 @@ on:
 
 jobs:
   build-and-push-backend:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.workflow_run.head_sha }}
-          fetch-depth: 0
-
-      - name: Get version tag
-        id: version
-        run: |
-          VERSION=$(git describe --tags --abbrev=0 2>/dev/null || echo "1.0.0")
-          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Login to DockerHub
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login --username ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
@@ -37,20 +27,10 @@ jobs:
           push: true
 
   build-and-push-database:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.workflow_run.head_sha }}
-          fetch-depth: 0
-
-      - name: Get version tag
-        id: version
-        run: |
-          VERSION=$(git describe --tags --abbrev=0 2>/dev/null || echo "1.0.0")
-          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Login to DockerHub
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login --username ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
@@ -62,23 +42,12 @@ jobs:
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:latest
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:${{ steps.version.outputs.VERSION }}
-          push: true
 
   build-and-push-httpd:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.workflow_run.head_sha }}
-          fetch-depth: 0
-
-      - name: Get version tag
-        id: version
-        run: |
-          VERSION=$(git describe --tags --abbrev=0 2>/dev/null || echo "1.0.0")
-          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Login to DockerHub
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login --username ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
