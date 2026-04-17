@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
 
       - name: Login to DockerHub
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login --username ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
@@ -24,7 +26,7 @@ jobs:
           context: ./simple-api
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-simple-api:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-simple-api:${{ github.sha }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-simple-api:${{ github.event.workflow_run.head_sha }}
           push: true
 
   build-and-push-database:
@@ -33,6 +35,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
 
       - name: Login to DockerHub
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login --username ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
@@ -43,7 +47,7 @@ jobs:
           context: ./database
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:${{ github.sha }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-database:${{ github.event.workflow_run.head_sha }}
           push: true
 
   build-and-push-httpd:
@@ -52,6 +56,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
 
       - name: Login to DockerHub
         run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login --username ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
@@ -62,5 +68,5 @@ jobs:
           context: ./http-server
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-httpd:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-httpd:${{ github.sha }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/tp-devops-httpd:${{ github.event.workflow_run.head_sha }}
           push: true
