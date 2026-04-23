@@ -4,13 +4,13 @@
 - name: Run HTTPD reverse proxy
   docker_container:
     name: httpd
-    image: nikanika14/tp-devops-httpd:latest
+    image: "{{ dockerhub_username }}/tp-devops-httpd:latest"
     pull: true
     recreate: true
     state: started
     restart_policy: always
     networks:
-      - name: my-network
+      - name: "{{ docker_network }}"
     ports:
       - "80:80"
   vars:

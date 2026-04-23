@@ -1,0 +1,9 @@
+---
+# Ce fichier sera chiffré avec ansible-vault
+# Pour le chiffrer: ansible-vault encrypt vault.yml
+# Pour le déchiffrer: ansible-vault decrypt vault.yml
+# Pour éditer: ansible-vault edit vault.yml
+
+vault_db_password: pwd
+vault_db_user: usr
+vault_db_name: db

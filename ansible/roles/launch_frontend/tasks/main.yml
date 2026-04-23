@@ -1,13 +1,15 @@
 ---
+# Launch frontend role
+
 - name: Run Frontend container
   docker_container:
     name: frontend
-    image: nikanika14/tp-devops-frontend:latest
+    image: "{{ dockerhub_username }}/tp-devops-frontend:latest"
     pull: true
     recreate: true
     state: started
     restart_policy: always
     networks:
-      - name: my-network
+      - name: "{{ docker_network }}"
   vars:
     ansible_python_interpreter: /opt/docker_venv/bin/python

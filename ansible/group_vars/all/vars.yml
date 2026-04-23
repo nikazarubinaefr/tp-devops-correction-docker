@@ -1,0 +1,9 @@
+---
+# Variables non sensibles
+docker_network: my-network
+dockerhub_username: nikanika14
+
+# Variables sensibles (référencées depuis vault.yml)
+db_password: "{{ vault_db_password }}"
+db_user: "{{ vault_db_user }}"
+db_name: "{{ vault_db_name }}"
