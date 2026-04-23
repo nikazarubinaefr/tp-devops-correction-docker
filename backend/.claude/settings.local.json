@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(docker logs:*)",
+      "Bash(docker run:*)",
+      "Bash(ping:*)",
+      "Bash(docker stop httpd-server backend-api my-postgres-container adminer)",
+      "Bash(docker rm httpd-server backend-api my-postgres-container adminer)",
+      "Bash(docker compose:*)",
+      "Bash(docker login:*)",
+      "Bash(docker tag:*)",
+      "Bash(docker push:*)"
+    ]
+  }
+}

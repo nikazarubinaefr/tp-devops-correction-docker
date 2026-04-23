@@ -1,0 +1,377 @@
+2026.04.03 11:25:21 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.03 11:25:21 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+Apr 03, 2026 11:25:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 03, 2026 11:25:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.03 11:25:22 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:23 WARN  no build tool detected in workspace 'C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.03 11:25:23 WARN  Build server is not auto-connectable.
+2026.04.03 11:25:23 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java
+2026.04.03 11:25:23 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java
+2026.04.03 11:25:22 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:24 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:24 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/SimpleapiApplication.java. Output:
+
+Apr 03, 2026 11:25:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.04.03 11:25:24 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:24 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:24 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/GreetingController.java. Output:
+
+2026.04.03 11:25:24 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:24 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+Apr 03, 2026 11:25:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Apr 03, 2026 11:25:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 03, 2026 11:25:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.04.03 11:25:24 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:25 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:25:27 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:26:00 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:26:00 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:26:04 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.03 11:43:33 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+Apr 03, 2026 12:16:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 03, 2026 12:17:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.03 12:17:31 INFO  Shutting down server
+2026.04.03 12:17:31 INFO  Memory monitor stopped
+2026.04.03 12:17:31 INFO  shutting down Metals
+2026.04.03 12:17:31 INFO  Exiting server
+2026.04.03 12:40:32 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1' for client Visual Studio Code 1.109.0.
+2026.04.03 12:40:32 INFO  time: initialize in 0.18s
+2026.04.03 12:40:32 INFO  Memory monitor started
+2026.04.03 12:40:35 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.03 12:40:37 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.03 12:40:39 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.03 12:40:39 WARN  no build tool detected in workspace 'C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.03 12:40:39 WARN  Build server is not auto-connectable.
+2026.04.03 12:40:40 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.03 12:40:40 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java
+2026.04.03 12:40:40 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java
+2026.04.03 12:40:40 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.03 12:40:42 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.03 12:40:42 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/GreetingController.java. Output:
+
+2026.04.03 12:40:43 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/SimpleapiApplication.java. Output:
+
+2026.04.03 12:40:44 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.03 12:40:44 INFO  time: code lens generation in 4.2s
+2026.04.03 12:40:51 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 03, 2026 1:52:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 03, 2026 1:52:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.03 14:00:01 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java
+2026.04.03 14:00:02 INFO  Created report: Optional[file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/SimpleapiApplication.java]
+2026.04.03 14:00:02 INFO  QDox parse error in file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/SimpleapiApplication.java (full report at: "C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\.metals\.reports\metals-full\2026-04-03\r_qdox-error_14-00-01-964.md")
+2026.04.03 14:00:03 INFO  Shutting down server
+2026.04.03 14:00:03 INFO  Memory monitor stopped
+2026.04.03 14:00:03 INFO  shutting down Metals
+2026.04.03 14:00:03 INFO  Exiting server
+2026.04.09 12:22:00 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1' for client Visual Studio Code 1.109.0.
+2026.04.09 12:22:01 INFO  time: initialize in 0.24s
+2026.04.09 12:22:00 INFO  Memory monitor started
+2026.04.09 12:22:03 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.09 12:22:03 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 09, 2026 12:22:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.09 12:22:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:06 WARN  no build tool detected in workspace 'C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.09 12:22:06 WARN  Build server is not auto-connectable.
+2026.04.09 12:22:05 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+Apr 09, 2026 12:22:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.04.09 12:22:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:07 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 12:22:08 INFO  time: code lens generation in 1.67s
+2026.04.09 12:22:08 INFO  time: code lens generation in 1.49s
+2026.04.09 12:22:13 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 09, 2026 12:22:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Apr 09, 2026 12:22:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 09, 2026 12:22:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Apr 09, 2026 12:22:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2026.04.09 12:22:33 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:34 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:49 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:56 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 12:22:58 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 09, 2026 12:42:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 09, 2026 1:45:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.09 13:51:43 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:52:18 INFO  Shutting down server
+2026.04.09 13:52:18 INFO  Memory monitor stopped
+2026.04.09 13:52:18 INFO  shutting down Metals
+2026.04.09 13:52:18 INFO  Exiting server
+2026.04.09 13:53:08 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1' for client Visual Studio Code 1.109.0.
+2026.04.09 13:53:08 INFO  Memory monitor started
+2026.04.09 13:53:10 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.09 13:53:10 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 09, 2026 1:53:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Apr 09, 2026 1:53:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 09, 2026 1:53:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.09 13:53:12 WARN  no build tool detected in workspace 'C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.09 13:53:12 WARN  Build server is not auto-connectable.
+2026.04.09 13:53:12 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 13:53:14 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 13:53:14 INFO  time: code lens generation in 1.62s
+2026.04.09 13:53:14 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 13:53:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 09, 2026 1:53:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.04.09 13:53:16 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:17 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:20 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:21 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 13:53:21 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:21 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:23 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:23 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:23 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 09, 2026 1:53:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Apr 09, 2026 1:53:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2026.04.09 13:53:26 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:27 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:57 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 13:53:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:53:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:59:25 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 13:59:45 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:01:04 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:01:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:02:04 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:07 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:07 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:11 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java
+2026.04.09 14:03:11 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:03:11 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/GreetingController.java. Output:
+
+2026.04.09 14:03:12 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:03:11 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:03:12 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:03:29 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:03:32 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 14:03:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:36 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:41 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:41 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 14:03:41 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:41 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:42 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:42 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:42 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 14:03:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:46 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:46 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:47 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:47 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 14:03:50 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:03:50 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:39 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:39 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:39 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:39 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 14:04:40 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:42 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:42 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:44 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 14:04:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:04:45 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java. Output:
+
+2026.04.09 14:04:46 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 14:04:46 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:05:50 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java
+2026.04.09 14:05:50 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:05:50 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:06:16 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 14:06:16 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:06:16 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:06:16 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:06:19 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 14:06:19 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:08:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:10:42 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:13:08 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:13:36 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:17:45 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:21:14 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java
+2026.04.09 14:21:14 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/SimpleapiApplication.java. Output:
+
+2026.04.09 14:21:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:17 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:17 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:17 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:17 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:17 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:17 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:17 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/SimpleapiApplication.java. Output:
+
+2026.04.09 14:21:18 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:21:18 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java
+2026.04.09 14:21:19 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:14 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java
+2026.04.09 14:28:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:14 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/test/java/jar/SimpleapiApplicationTests.java. Output:
+
+2026.04.09 14:28:14 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:15 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:24 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:25 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java
+2026.04.09 14:28:25 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:25 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+Apr 09, 2026 2:28:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 191
+2026.04.09 14:28:25 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:26 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:28 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:28 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java
+2026.04.09 14:28:28 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:28 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:28 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:32 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java
+2026.04.09 14:28:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:28:33 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:28:32 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:28:36 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:28:38 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:28:38 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\GreetingController.java. Using fallback presentation compiler.
+2026.04.09 14:28:46 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\test\java\jar\SimpleapiApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:28:46 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java
+2026.04.09 14:28:46 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:46 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/simpleapi/simpleapi/src/main/java/fr/takima/training/simpleapi/SimpleapiApplication.java. Output:
+
+2026.04.09 14:28:46 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:46 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:28:55 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:31:19 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\SimpleapiApplication.java. Using fallback presentation compiler.
+2026.04.09 14:36:56 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:36:56 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 14:36:56 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:36:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:36:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:36:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:36:59 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:36:59 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:37:44 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:45:34 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+Apr 09, 2026 2:47:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/Main.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2026.04.09 14:57:54 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 14:57:54 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:57:54 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:57:55 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:57:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:57:57 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:57:58 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:57:58 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:57:59 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:58:26 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:58:26 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:58:28 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:58:36 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 14:59:21 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 15:52:05 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java
+2026.04.09 15:52:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 15:52:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 15:52:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 15:52:07 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 15:52:07 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\simpleapi\simpleapi\src\main\java\fr\takima\training\simpleapi\controller\DepartmentController.java. Using fallback presentation compiler.
+2026.04.09 16:26:05 WARN  no build target for: C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\Main.java
+2026.04.09 16:26:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\Main.java. Using fallback presentation compiler.
+2026.04.09 16:26:05 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\Main.java. Using fallback presentation compiler.
+2026.04.09 16:26:05 WARN  Running javac-semanticdb failed for file:///C:/Users/NZ/Documents/Master%20ML%20Efrei/M1%20BDML2/MLOPS_DevOPS/TP1/backend/Main.java. Output:
+
+2026.04.09 16:26:08 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\Main.java. Using fallback presentation compiler.
+2026.04.09 16:26:09 INFO  no build target found for C:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\Main.java. Using fallback presentation compiler.
+2026.04.09 16:26:11 INFO  no build target found for c:\Users\NZ\Documents\Master ML Efrei\M1 BDML2\MLOPS_DevOPS\TP1\backend\Main.java. Using fallback presentation compiler.
+Apr 09, 2026 7:17:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 10, 2026 9:22:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 10, 2026 2:39:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 13, 2026 10:09:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 14, 2026 1:23:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 15, 2026 12:42:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 9:27:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 9:42:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

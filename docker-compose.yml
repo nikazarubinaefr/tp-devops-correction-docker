@@ -1,0 +1,54 @@
+services:
+  backend:
+    build: ./backend/simpleapi/simpleapi/
+    container_name: backend-api
+    networks:
+      - frontendnetwork
+      - backendnetwork
+    depends_on:
+      database:
+        condition: service_healthy # Attend que la BDD soit vraiment prête
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://database:5432/${DB_NAME}
+      - SPRING_DATASOURCE_USERNAME=${DB_USER}
+      - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
+    restart: unless-stopped
+
+  database:
+    build: ./database
+    container_name: database
+    networks:
+      - backendnetwork
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+    healthcheck:
+      # C'est la base de données qu'on vérifie !
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER} -d ${DB_NAME}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  httpd:
+    build: ./HttpServer
+    ports:
+      - "80:80"
+    networks:
+      - frontendnetwork # Doit être sur le même réseau que le backend
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+# Correction ici : Les réseaux doivent être un mapping (dictionnaire)
+networks:
+  frontendnetwork:
+    driver: bridge
+  backendnetwork:
+    driver: bridge
+
+volumes:
+  db-data:

@@ -1,0 +1,17 @@
+---
+# Launch database role
+
+- name: Run PostgreSQL database
+  docker_container:
+    name: database
+    image: nikanika14/tp-devops-database:latest
+    state: started
+    restart_policy: always
+    networks:
+      - name: my-network
+    env:
+      POSTGRES_PASSWORD: pwd
+    volumes:
+      - db-volume:/var/lib/postgresql/data
+  vars:
+    ansible_python_interpreter: /opt/docker_venv/bin/python

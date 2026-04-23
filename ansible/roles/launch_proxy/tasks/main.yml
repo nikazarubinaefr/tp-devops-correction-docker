@@ -1,0 +1,17 @@
+---
+# Launch proxy role
+
+- name: Run HTTPD reverse proxy
+  docker_container:
+    name: httpd
+    image: nikanika14/tp-devops-httpd:latest
+    pull: true
+    recreate: true
+    state: started
+    restart_policy: always
+    networks:
+      - name: my-network
+    ports:
+      - "80:80"
+  vars:
+    ansible_python_interpreter: /opt/docker_venv/bin/python
