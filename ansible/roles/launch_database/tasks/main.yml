@@ -12,6 +12,8 @@
     networks:
       - name: my-network
     env:
+      POSTGRES_DB: db
+      POSTGRES_USER: usr
       POSTGRES_PASSWORD: pwd
     volumes:
       - db-volume:/var/lib/postgresql/data
