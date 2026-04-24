@@ -6,9 +6,11 @@ on:
       - completed
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   build-and-push-backend:
+    if: github.event_name == 'workflow_run'
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
@@ -35,6 +37,7 @@ jobs:
           push: true
 
   build-and-push-database:
+    if: github.event_name == 'workflow_run'
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
@@ -61,6 +64,7 @@ jobs:
           push: true
 
   build-and-push-httpd:
+    if: github.event_name == 'workflow_run'
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
@@ -87,6 +91,7 @@ jobs:
           push: true
 
   build-and-push-frontend:
+    if: github.event_name == 'workflow_run'
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
@@ -113,6 +118,7 @@ jobs:
           push: true
 
   build-ansible-image:
+    if: github.event_name == 'workflow_run'
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
@@ -130,7 +136,7 @@ jobs:
           push: true
 
   deploy:
-    needs: [build-and-push-backend, build-and-push-database, build-and-push-httpd, build-and-push-frontend, build-ansible-image]
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout code
